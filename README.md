@@ -1,8 +1,13 @@
-# React + Vite
+RollingVet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Es una página web realizada con ReactJS de temática veterinaria, podremos administrar pacientes y turnos, darles de alta, editarlos y borraros. En la misma se utilizan herramientas como React Router para manejar las rutas que nos permitan navegar entre las distintas páginas y API externa deployada en Heroku.
 
-Currently, two official plugins are available:
+✨
+Comandos
+Cuando se clone este repositorio se deben ejecutar los siguientes comandos:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para instalar las dependencias
+npm i
+
+Para ejecutar nuestra app de react
+npm start
