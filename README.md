@@ -4,6 +4,7 @@ Es una página web realizada con ReactJS de temática veterinaria, podremos admi
 
 ✨
 Comandos
+
 Cuando se clone este repositorio se deben ejecutar los siguientes comandos:
 
 Para instalar las dependencias
