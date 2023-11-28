@@ -1,0 +1,20 @@
+
+.boxBackground{
+    background-color: rgb(24, 146, 24);
+    width: fit-content;
+}
+.boxTitle{
+    font-size: 20px;
+}
+.boxSubtitle{
+    font-size: 17px;
+    color: rgb(184, 183, 183);
+}
+.iconInfo{
+    color:  rgb(38, 212, 38);
+}
+.infoBit{
+    border-radius: 15px;
+    background-color: white;
+    height: 100%;
+}
